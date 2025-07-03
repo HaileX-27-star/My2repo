@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Haileslassie Kidu. I am currently learning Alx Pathways and exploring GitHub for the first time. I enjoy solving problems using technology and improving my digital skills.
+
+I am passionate about contributing to projects that help my community. I look forward to growing as a software developer and Data Scientist.
